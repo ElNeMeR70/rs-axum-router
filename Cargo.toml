@@ -1,0 +1,10 @@
+[package]
+name = "rs-axum-router"
+version = "1.0.0"
+edition = "2021"
+description = "axum-compatible HTTP router with handler extraction"
+license = "MIT"
+
+[[bin]]
+name = "rs_axum_router"
+path = "main.rs"
